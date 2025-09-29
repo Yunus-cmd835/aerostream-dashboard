@@ -38,8 +38,8 @@
 ## 📦 Setup
 
 ```bash
-git clone https://github.com/Yunus-cmd835/aerostream
-cd aerostream
+git clone https://github.com/Yunus-cmd835/aerostream-dashboard
+cd aerostream-dashboard
 pip install -r requirements.txt
 streamlit run app.py
 ```
