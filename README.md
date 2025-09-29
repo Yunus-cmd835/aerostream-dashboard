@@ -66,17 +66,8 @@ Built for the **Thales GenTech India Hackathon** under the theme _Flight of the 
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots or GIFs of your dashboard here_
-
----
-
 ## 🧠 Author
 
 **Yunus Evangeline A** — Strategic full-stack builder, hackathon warrior, and reviewer magnet.  
 Building like a CTO. Thinking like a founder.
 
----
-
-```
